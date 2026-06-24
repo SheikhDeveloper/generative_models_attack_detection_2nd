@@ -203,7 +203,7 @@ The sequence diagram shows the interaction flow for a typical attack detection s
 
 ### BPMN Process Diagram
 
-![BPMN Diagram](../sys-bpmn.svg)
+![BPMN Diagram](bpmn/sys-bpmn.svg)
 
 The BPMN diagram models the complete detection process as a business process with parallel analysis levels, three-class classification, and asynchronous verification.
 
